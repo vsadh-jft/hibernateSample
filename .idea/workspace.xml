@@ -69,7 +69,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="21" selection-start="624" selection-end="624" vertical-scroll-proportion="0.20089285" vertical-offset="180" max-vertical-offset="435">
+            <state line="23" column="10" selection-start="824" selection-end="824" vertical-scroll-proportion="0.73660713" vertical-offset="180" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
@@ -471,17 +471,21 @@
       <changelist id="ca5b1aac-f2b9-4f83-8acf-47a2f665ad8c" name="Default" comment="" />
       <created>1429165671847</created>
       <updated>1429165671847</updated>
-      <workItem from="1429165675116" duration="1165000" />
+      <workItem from="1429165675116" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1429166568249</created>
       <updated>1429166568249</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Seoncd commit&#10;">
+      <created>1429166850673</created>
+      <updated>1429166850673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1165000" />
+    <option name="totallyTimeSpent" value="1196000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -548,7 +552,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Seoncd commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seoncd commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -563,7 +568,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="624" selection-end="624" vertical-scroll-proportion="0.20089285" vertical-offset="180" max-vertical-offset="435">
+        <state line="23" column="10" selection-start="824" selection-end="824" vertical-scroll-proportion="0.73660713" vertical-offset="180" max-vertical-offset="435">
           <folding />
         </state>
       </provider>
